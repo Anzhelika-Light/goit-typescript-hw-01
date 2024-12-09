@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "typescript": "^5.7.2"
+  },
+  "name": "goit-typescript-hw-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@web/dev-server": "^0.4.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anzhelika-Light/goit-typescript-hw-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anzhelika-Light/goit-typescript-hw-01/issues"
+  },
+  "homepage": "https://github.com/Anzhelika-Light/goit-typescript-hw-01#readme",
+  "description": ""
+}
